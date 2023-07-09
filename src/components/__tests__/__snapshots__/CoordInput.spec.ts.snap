@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CoordInput > matches snapshot 1`] = `"txt"`;
+
+exports[`DistanceOutput > matches snapshot 1`] = `"txt"`;
